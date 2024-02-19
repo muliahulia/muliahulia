@@ -1,12 +1,9 @@
+<div id+"header" align="center">
+  <img src = "https://private-user-images.githubusercontent.com/74038190/271839927-f5d2d866-d25c-4873-8d82-425d2c62fc2e.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDgzMTczMjIsIm5iZiI6MTcwODMxNzAyMiwicGF0aCI6Ii83NDAzODE5MC8yNzE4Mzk5MjctZjVkMmQ4NjYtZDI1Yy00ODczLThkODItNDI1ZDJjNjJmYzJlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAyMTklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMjE5VDA0MzAyMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTYwZmM0OGZiNjgzODIzMjI4YTQ3YTI5OTAyMmQzZTBiZDJhYTgxYmQ1MWFhNjQxOTJkNmI0ZGE4NTc5NzViYWYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.2utK_00uWjyCirlWtgRlDUJzvTQULrrtiC1p9dvHfa0" width="400" height = "400"
+    </div>
+  <br clear="center"/>
 
-[![SVG Banners](https://svg-banners.vercel.app/api?type=rainbow&text1=Hello!%20&width=1000&height=100)]
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-
-# Hi there i'm Julia! 👋
-
+# Hi there i'm Julia! 👋 
 #### I am an 19-year-old student developer, and I'm passionate about creating games and programes
 
 ----------------------
