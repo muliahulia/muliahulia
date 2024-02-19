@@ -14,10 +14,11 @@
 #### I am an 19-year-old student developer, and I'm passionate about creating games and artificial intelligence
 
 ----------------------
-
+<div align="left" style="font-size: small;">
+  <h1>Click here for more</h1>
+</div>
 
 <div id="badges" align = "left" >
-  <h1> Click here for more  ->
   <a href="https://www.linkedin.com/in/juliastech/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
