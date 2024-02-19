@@ -7,7 +7,7 @@
 </em></p>
 
 
-<h2 align = "left"> About me </h2>
+
 
 -----
 #### I am an 19-year-old student developer, and I'm passionate about creating games and artificial intelligence
