@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there i'm Julia! 👋
+
+I am an 19-year-old student developer, and I'm passionate about creating games and programes
 
 <!--
 **muliahulia/muliahulia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
