@@ -7,6 +7,7 @@
 </em></p>
 
 ----------------------
+
 #### I am an 19-year-old student developer, and I'm passionate about creating games and artificial intelligence
 ----------------------
 <div align="left" style="font-size: small;">
