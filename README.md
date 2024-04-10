@@ -7,7 +7,7 @@
 
 
 <div align="left" style="font-size: small;">
-  <h1> I am an 19-year-old student developer, and I'm passionate about creating games and programs!</h1>
+  <h6> I am an 19-year-old student developer, and I'm passionate about creating games and programs!</h1>
 </div>
 
 
